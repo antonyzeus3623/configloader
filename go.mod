@@ -1,4 +1,4 @@
-module antonyzeus3623/configloader
+module github.com/antonyzeus3623/configloader
 
 go 1.24
 

@@ -1,8 +1,8 @@
 package main
 
 import (
-	"antonyzeus3623/configloader"
 	"fmt"
+	"github.com/antonyzeus3623/configloader"
 	"log"
 	"sync"
 )
